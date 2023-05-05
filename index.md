@@ -143,8 +143,8 @@ G.add_edges_from(edgelist)
 
 **Visualization**:
 
-![clean graph](\src\skyrimgraph.png)
-![nx graph](\src\nxgraph.png)
+![clean graph](src/skyrimgraph.png)
+![nx graph](src/nxgraph.png)
 
 
 **Solution code:**
